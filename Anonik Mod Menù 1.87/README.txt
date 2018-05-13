@@ -1,0 +1,118 @@
+ITA
+
+Mod Menù Creato e Sviluppato da Anonik 
+
+ChangeLog Versione 1.81
+
+*Aggiunto lo spwan per le macchine
+*Aggiunto lo spwan per le barche
+*Aggiunto lo spwan per i veicoli inclusi nei DLC
+*Aggiunto lo spwan per elicotteri e aerei
+*Risolto il crash del Menù su windows 7
+*Risolto il crash del Menù durante l'avvio della prima missione su windows 8 e 8.1
+*General Bug Fixed
+*Migliorata la stabilità del Mod Menù
+*Layout con grafica migliorata
+*Compatibilità con il Pad aggiunta
+*180 veicoli aggiunti
+*Aggiunti tutti i personaggi mancanti all'interno dello Skin Changer
+*Ridotte le dimensioni del file rar
+*Codice sorgente migliorato per una migliore lettura
+*Migliorata la stabilità per Parallel Desktop (Mac)
+*Compatibilità con Script Hook V Migliorata
+*Crash del file Asi risolto
+*Supporto al 100% per Windows 10.
+*Risolto il bug della versione 1.80 che non permetteva l'avvio del Mod Menù per la 
+versione retail di GTA V.
+
+"La base del codice sorgente è presa dallo Script Hook V SDK di Alexander Blade © ~ "
+
+******************************************************************************************
+ENG
+
+Mod Menu Created and Developed by Anonik
+
+ChangeLog Version 1.80
+
+* Added spwan to machines
+* Added spwan to the boats
+* Added spwan for vehicles included in DLC
+* Added spwan for helicopters and airplanes
+* Fixed the menu crash on windows 7
+* Fixed the menu crash when starting the first mission on windows 8 and 8.1
+* General Bug Fixed
+* Improved stability of the Mod Menu
+* Layout with improved graphics
+* Compatibility with the added pad
+* 180 vehicles added
+* Added all the missing characters within the Skin Changer
+* Reduced file size rar
+* Improved source code for better reading
+* Improved stability for Parallel Desktop (Mac)
+* Compatibility with Improved Hook Script Compatibility
+* Crash of Asi file resolved
+* 100% support for Windows 10.
+
+"The source code base is taken from the Alexander Blade © ~Script  Hook V SDK Script "
+
+*******************************************************************************************
+ChangeLog Versione 1.85
+
+ITA
+
+*Aggiunto il Menù Animazioni
+*Aggiunto il Menù Spwan Oggetti
+*Aggiunto il Menù Credits
+*Aggiunto il Menù Visioni
+*Aggiornata la parte estetica del Menù
+*Bug Fixed
+*Crash su Windows 10 risolti
+*Aggiunta la compatibilità con le nuove versione di ScriptHookV
+*Aggiornato il codice sorgente
+*Aggiornato il file script.cpp
+
+********************************************************************************************
+ChangeLog Version 1.85
+
+ENG
+
+* Added the Animation Menu
+* Added the Spwan Objects Menu
+* Added the Credits Menu
+* Added Visions Options Menu
+* Updated the aesthetic part of the Menu
+* Bug Fixed
+* Crash on Windows 10 resolved
+* Added compatibility with new versions of ScriptHookV
+* Updated source code
+* Updated script.cpp file
+
+**********************************************************************************************
+ChangeLog Version 1.87
+
+ITA
+
+*Aggiunto il Menù Armi per i Veicoli
+*Aggiunto il Menù per caricare North Yankton
+*Migliorata la stabilità del Mod Menù
+*Grafica Migliorata per il Full Hd,2K e 4K
+*Migliorata l'interfaccia per monitor 21:9
+*Risolti molti crash per windows 10
+*Codice sorgente aggiornato
+*Codice sorgente migliorato
+
+*************************************************************************************************
+ChangeLog Version 1.87
+
+ENG
+
+* Added the Weapons Menu for Vehicles
+* Added the menu to load North Yankton
+* Improved stability of the Menu Mod
+* Improved graphics for Full HD, 2K and 4K
+* Improved 21: 9 monitor interface
+* Fixed many crashes for windows 10
+* Updated source code
+* Improved source code
+
+**************************************************************************************************

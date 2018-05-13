@@ -1,0 +1,29 @@
+**********************************************************************************************
+ChangeLog Version 1.87
+
+ITA
+
+*Aggiunto il Menù Armi per i Veicoli
+*Aggiunto il Menù per caricare North Yankton
+*Migliorata la stabilità del Mod Menù
+*Grafica Migliorata per il Full Hd,2K e 4K
+*Migliorata l'interfaccia per monitor 21:9
+*Risolti molti crash per windows 10
+*Codice sorgente aggiornato
+*Codice sorgente migliorato
+
+*************************************************************************************************
+ChangeLog Version 1.87
+
+ENG
+
+* Added the Weapons Menu for Vehicles
+* Added the menu to load North Yankton
+* Improved stability of the Menu Mod
+* Improved graphics for Full HD, 2K and 4K
+* Improved 21: 9 monitor interface
+* Fixed many crashes for windows 10
+* Updated source code
+* Improved source code
+
+**************************************************************************************************

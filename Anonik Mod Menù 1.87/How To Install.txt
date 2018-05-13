@@ -1,0 +1,20 @@
+Press F4 to Open Anonik Menù
+
+ITA
+
+Copiare il file dinput8.dll all'interno della cartella principale di GTA V
+Copiare il file ScriptHookV.dll all'interno della cartella principale di GTA V
+Copiare il file Anonik Menù 1.87.asi all'interno della cartella principale di GTA V
+
+ENG
+
+
+Copy the dinput8.dll file into the root folder of GTA V
+Copy the ScriptHookV.dll file into the GTA V root folder
+Copy the Anonik Menu 1.87.asi file into the main GTA V folder
+
+
+
+
+Open README.txt file for other info
+Apri il file README.txt per altre info
