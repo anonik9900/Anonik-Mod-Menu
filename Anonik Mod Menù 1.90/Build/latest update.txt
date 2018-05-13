@@ -1,0 +1,36 @@
+**********************************************************************************************
+ChangeLog Version 1.90
+
+ITA
+
+*Aggiunte le armi che sparano soldi
+*Aggiunto un nuovo Menù
+*Aggiunta funzione per spwanare dei Bodyguard
+*Aggiunta funzione per Skippare le canzoni via radio
+*Aggiunta funzione per creare un clone di se stessi
+*Aggiunta funzione per simulare il movimento della camera dopo un'esplosione
+*Migliorata l'interfaccia grafica
+*Corrette le scritte dei credits
+*Codice sorgente aggiornato su Github
+*Codice sorgente aggiornato
+*Codice sorgente migliorato
+
+*************************************************************************************************
+ChangeLog Version 1.90
+
+ENG
+
+
+* Added weapons that shoot money
+* Added a new menu
+* Added function to spindle Bodyguard
+* Added function for Skipping songs via radio
+* Added function to create a clone of themselves
+* Added function to simulate the movement of the camera after an explosion
+* Improved graphical interface
+* Corrected the writings of the credits
+* Updated source code on Github
+* Updated source code
+* Improved source code
+
+**************************************************************************************************

@@ -1,0 +1,10 @@
+﻿  script.cpp
+script.cpp(80): warning C4838: la conversione da 'float' a 'int' richiede una conversione verso un tipo di dati più piccolo
+script.cpp(81): warning C4838: la conversione da 'float' a 'int' richiede una conversione verso un tipo di dati più piccolo
+script.cpp(3463): warning C4065: l'istruzione switch contiene l'etichetta 'default' ma nessuna etichetta 'case'
+  Generazione codice in corso...
+  38 of 360 functions (10.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  NativeTrainer.vcxproj -> C:\Users\Nicholas Impieri\Documents\gta v backup\My Mod Menù\My Menù\samples\NativeTrainer\bin\Release\NativeTrainer.asi
